@@ -1,32 +1,32 @@
 {
   "altissimo": [
-    "🚨 ALERTA MÁXIMO! Esse ser é um GOLPISTA NATO! Já partiu mais corações do que terremoto parte chão. Foge agora!",
-    "☠️ PERIGO EXTREMO! Esse aqui tem currículo de golpista. Já enganou tanta gente que perdeu a conta. Corre!",
-    "🔴 NÍVEL CRÍTICO! Especialista em fazer você se apaixonar e sumir sem deixar endereço. Não diga que não avisamos!",
-    "💀 CUIDADO TOTAL! Esse aqui coleciona corações partidos como troféu. Você vai ser mais um na lista!"
+    { "id": "alt_01", "texto": "🚨 ALERTA MÁXIMO! Esse ser é um GOLPISTA NATO! Já partiu mais corações do que terremoto parte chão. Foge agora!" },
+    { "id": "alt_02", "texto": "☠️ PERIGO EXTREMO! Esse aqui tem currículo de golpista. Já enganou tanta gente que perdeu a conta. Corre!" },
+    { "id": "alt_03", "texto": "🔴 NÍVEL CRÍTICO! Especialista em fazer você se apaixonar e sumir sem deixar endereço. Não diga que não avisamos!" },
+    { "id": "alt_04", "texto": "💀 CUIDADO TOTAL! Esse aqui coleciona corações partidos como troféu. Você vai ser mais um na lista!" }
   ],
   "alto": [
-    "⚠️ CUIDADO! Alta probabilidade de golpe! Esse aqui tem papo de novela, mas coração de pedra.",
-    "🧨 Esse gosta de partilhar o coração alheio em pedacinhos. Relacionamento com ele(a) tem prazo de validade curto.",
-    "😈 Sinal vermelho! Especialista em 'eu te amo' de segunda e ghosting de sexta.",
-    "🚩 Muitas red flags detectadas! Esse aqui some mais rápido do que crédito de celular pré-pago."
+    { "id": "ato_01", "texto": "⚠️ CUIDADO! Alta probabilidade de golpe! Esse aqui tem papo de novela, mas coração de pedra." },
+    { "id": "ato_02", "texto": "🧨 Esse gosta de partilhar o coração alheio em pedacinhos. Relacionamento com ele(a) tem prazo de validade curto." },
+    { "id": "ato_03", "texto": "😈 Sinal vermelho! Especialista em 'eu te amo' de segunda e ghosting de sexta." },
+    { "id": "ato_04", "texto": "🚩 Muitas red flags detectadas! Esse aqui some mais rápido do que crédito de celular pré-pago." }
   ],
   "medio": [
-    "🟡 Atenção moderada. Pode ser inocente... ou pode ser um golpista em período de teste. Fique esperto(a)!",
-    "🤔 Probabilidade média de golpe. Nem tudo que reluz é ouro, mas também não é carvão. Observe mais.",
-    "😏 Esse tá no limite. Pode ser um amor sincero ou o maior golpe da sua vida. A escolha é sua!",
-    "🎭 Esse aqui é um mistério. Pode ser príncipe encantado ou lobo em pele de cordeiro. Olho vivo!"
+    { "id": "med_01", "texto": "🟡 Atenção moderada. Pode ser inocente... ou pode ser um golpista em período de teste. Fique esperto(a)!" },
+    { "id": "med_02", "texto": "🤔 Probabilidade média de golpe. Nem tudo que reluz é ouro, mas também não é carvão. Observe mais." },
+    { "id": "med_03", "texto": "😏 Esse tá no limite. Pode ser um amor sincero ou o maior golpe da sua vida. A escolha é sua!" },
+    { "id": "med_04", "texto": "🎭 Esse aqui é um mistério. Pode ser príncipe encantado ou lobo em pele de cordeiro. Olho vivo!" }
   ],
   "baixo": [
-    "💚 Baixo risco de golpe! Parece ser gente boa. Mas não baixe a guarda cedo demais, viu?",
-    "😊 Esse aqui tem cara de honesto(a)! Mas lembre-se: ninguém é 100% detectado pela máquina.",
-    "✅ Poucos sinais de golpe. Pode avançar... mas com sabedoria!",
-    "🍀 Sorte sua! Esse(a) parece ser de confiança. Mas vai devagar, tá?"
+    { "id": "bai_01", "texto": "💚 Baixo risco de golpe! Parece ser gente boa. Mas não baixe a guarda cedo demais, viu?" },
+    { "id": "bai_02", "texto": "😊 Esse aqui tem cara de honesto(a)! Mas lembre-se: ninguém é 100% detectado pela máquina." },
+    { "id": "bai_03", "texto": "✅ Poucos sinais de golpe. Pode avançar... mas com sabedoria!" },
+    { "id": "bai_04", "texto": "🍀 Sorte sua! Esse(a) parece ser de confiança. Mas vai devagar, tá?" }
   ],
   "zero": [
-    "💖 CORAÇÃO PURO DETECTADO! Esse(a) parece um anjo caído do céu. Trate bem!",
-    "🌟 Praticamente zero de golpe! Parece ser uma pessoa sincera e verdadeira. Raro de encontrar!",
-    "🥰 Esse(a) não tem perfil de golpista. Pode se apaixonar com menos medo... mas ainda assim, cuidado né!",
-    "✨ INOCÊNCIA MÁXIMA! Esse(a) aqui é mais puro(a) que água de nascente. Cuida bem desse coração!"
+    { "id": "zer_01", "texto": "💖 CORAÇÃO PURO DETECTADO! Esse(a) parece um anjo caído do céu. Trate bem!" },
+    { "id": "zer_02", "texto": "🌟 Praticamente zero de golpe! Parece ser uma pessoa sincera e verdadeira. Raro de encontrar!" },
+    { "id": "zer_03", "texto": "🥰 Esse(a) não tem perfil de golpista. Pode se apaixonar com menos medo... mas ainda assim, cuidado né!" },
+    { "id": "zer_04", "texto": "✨ INOCÊNCIA MÁXIMA! Esse(a) aqui é mais puro(a) que água de nascente. Cuida bem desse coração!" }
   ]
 }
