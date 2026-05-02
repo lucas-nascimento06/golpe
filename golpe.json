@@ -2127,7 +2127,6 @@
     { "id": "zer_98", "texto": "O histórico de confiança é tão limpo que assusta quem só vê lama." },
     { "id": "zer_99", "texto": "Se existisse golpe do amor verdadeiro, esse golpe já teria falido." },
     { "id": "zer_100", "texto": "Não é sorte encontrar alguém assim. É raridade. E não precisa de prova." },
-    [
   { "id": "zer_101", "texto": "Quem só apanhava da vida, leva um tempo pra aceitar um abraço sem dente." },
   { "id": "zer_102", "texto": "Não tem letra miúda. O contrato é um sorriso e um café." },
   { "id": "zer_103", "texto": "Desconfiar aqui é tentar achar nó em bambu liso." },
@@ -2328,7 +2327,7 @@
   { "id": "zer_298", "texto": "Sem retrato falado do golpista, porque não se parece em nada." },
   { "id": "zer_299", "texto": "Quem só levou rasteira da vida, demora a aceitar que chão firme existe." },
   { "id": "zer_300", "texto": "Essa pessoa não precisa provar nada. O tempo já provou. E o tempo é testemunha." },
-      { "id": "zer_301", "texto": "Quem só conheceu mentira, desconfia até do silêncio calmo." },
+{ "id": "zer_301", "texto": "Quem só conheceu mentira, desconfia até do silêncio calmo." },
 { "id": "zer_302", "texto": "Essa pessoa não sabe dar golpe nem em jogo de tabuleiro." },
 { "id": "zer_303", "texto": "Sem carta na manga, só coração na mão." },
 { "id": "zer_304", "texto": "Quem procura defeito, vai passar o dia procurando e não achar." },
