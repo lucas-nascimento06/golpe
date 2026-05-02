@@ -1,37 +1,52 @@
 {
-  "altissimo": [
-    { "id": "alt_01", "texto": "🚨 ALERTA MÁXIMO! GOLPISTA NATO!" },
-    { "id": "alt_02", "texto": "🚨 PERIGO TOTAL! Golpista confirmado, fuja agora!" },
-    { "id": "alt_03", "texto": "🚨 CUIDADO! Esse aqui é golpista raiz!" },
-    { "id": "alt_04", "texto": "🚨 SIRENE LIGADA! Golpista de alto nível detectado!" },
-    { "id": "alt_05", "texto": "🚨 FUJA IMEDIATAMENTE! Golpista nato confirmado!" }
-  ],
-  "alto": [
-    { "id": "ato_01", "texto": "⚠️ ALTO RISCO! Cuidado!" },
-    { "id": "ato_02", "texto": "⚠️ SINAL VERMELHO! Muita atenção com esse!" },
-    { "id": "ato_03", "texto": "⚠️ PERIGO ALTO! Fique bem esperto(a)!" },
-    { "id": "ato_04", "texto": "⚠️ RISCO ELEVADO! Não baixe a guarda!" },
-    { "id": "ato_05", "texto": "⚠️ ALERTA ALTO! Investigue antes de confiar!" }
-  ],
-  "medio": [
-    { "id": "med_01", "texto": "🟡 Risco moderado. Fique esperto!" },
-    { "id": "med_02", "texto": "🟡 Sinal amarelo. Observe mais antes de confiar!" },
-    { "id": "med_03", "texto": "🟡 Atenção moderada. Nem anjo, nem golpista!" },
-    { "id": "med_04", "texto": "🟡 Cuidado! Algo ainda precisa ser investigado!" },
-    { "id": "med_05", "texto": "🟡 Risco médio. Confie, mas verifique!" }
-  ],
-  "baixo": [
-    { "id": "bai_01", "texto": "💚 Baixo risco. Parece confiável!" },
-    { "id": "bai_02", "texto": "💚 Sinal verde! Pode confiar com cautela!" },
-    { "id": "bai_03", "texto": "💚 Poucas red flags. Parece ser gente boa!" },
-    { "id": "bai_04", "texto": "💚 Baixa probabilidade de golpe. Vai com calma!" },
-    { "id": "bai_05", "texto": "💚 Tudo ok por enquanto! Continue observando!" }
-  ],
-  "zero": [
-    { "id": "zer_01", "texto": "💖 Coração puro detectado!" },
-    { "id": "zer_02", "texto": "💖 Zero golpe! Pessoa rara e verdadeira!" },
-    { "id": "zer_03", "texto": "💖 Anjo na terra! Pode confiar de olhos fechados!" },
-    { "id": "zer_04", "texto": "💖 Inocência máxima! Esse(a) é ouro puro!" },
-    { "id": "zer_05", "texto": "💖 Risco zero! Você encontrou um tesouro!" }
-  ]
+  "altissimo": {
+    "titulo": "🚨 ALERTA MÁXIMO! GOLPISTA NATO!",
+    "frases": [
+      { "id": "alt_01", "texto": "Esse aqui é golpista raiz!" },
+      { "id": "alt_02", "texto": "Perigo total! Fuja agora!" },
+      { "id": "alt_03", "texto": "Sirene ligada! Golpista de alto nível detectado!" },
+      { "id": "alt_04", "texto": "Golpista confirmado, não confie nem um segundo!" },
+      { "id": "alt_05", "texto": "Corre que esse aqui não tem salvação!" }
+    ]
+  },
+  "alto": {
+    "titulo": "⚠️ ALTO RISCO! Cuidado!",
+    "frases": [
+      { "id": "ato_01", "texto": "Sinal vermelho! Muita atenção com esse!" },
+      { "id": "ato_02", "texto": "Perigo alto! Fique bem esperto(a)!" },
+      { "id": "ato_03", "texto": "Risco elevado! Não baixe a guarda!" },
+      { "id": "ato_04", "texto": "Alerta alto! Investigue antes de confiar!" },
+      { "id": "ato_05", "texto": "Esse tem cara de golpe, vai devagar!" }
+    ]
+  },
+  "medio": {
+    "titulo": "🟡 Risco moderado. Fique esperto!",
+    "frases": [
+      { "id": "med_01", "texto": "Sinal amarelo. Observe mais antes de confiar!" },
+      { "id": "med_02", "texto": "Nem anjo, nem golpista. Fica de olho!" },
+      { "id": "med_03", "texto": "Cuidado! Algo ainda precisa ser investigado!" },
+      { "id": "med_04", "texto": "Confie, mas verifique sempre!" },
+      { "id": "med_05", "texto": "Cinquenta e cinquenta. Ainda não dá pra saber!" }
+    ]
+  },
+  "baixo": {
+    "titulo": "💚 Baixo risco. Parece confiável!",
+    "frases": [
+      { "id": "bai_01", "texto": "Sinal verde! Pode confiar com cautela!" },
+      { "id": "bai_02", "texto": "Poucas red flags. Parece ser gente boa!" },
+      { "id": "bai_03", "texto": "Baixa probabilidade de golpe. Vai com calma!" },
+      { "id": "bai_04", "texto": "Tudo ok por enquanto! Continue observando!" },
+      { "id": "bai_05", "texto": "Quase limpo(a)! Só não relaxa demais não!" }
+    ]
+  },
+  "zero": {
+    "titulo": "💖 Coração puro detectado!",
+    "frases": [
+      { "id": "zer_01", "texto": "Zero golpe! Pessoa rara e verdadeira!" },
+      { "id": "zer_02", "texto": "Anjo na terra! Pode confiar de olhos fechados!" },
+      { "id": "zer_03", "texto": "Inocência máxima! Esse(a) é ouro puro!" },
+      { "id": "zer_04", "texto": "Risco zero! Você encontrou um tesouro!" },
+      { "id": "zer_05", "texto": "Alma pura! Esse(a) não machuca nem uma formiga!" }
+    ]
+  }
 }
