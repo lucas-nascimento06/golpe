@@ -1195,6 +1195,12 @@
     {
       "id": "alt_299",
       "texto": "⚠️ PENÚLTIMO SUSPIRO! Arruma as malas emocionais e financeiras ANTES de conhecer ele. Depois vai ser tarde."
+    },
+    
+    { "id": "alt_extra_01", 
+      
+    "texto": "🚨 ALERTA MÁXIMO! GOLPISTA NATO!" 
+    
     }
   ],
   "alto": [
@@ -2393,6 +2399,10 @@
     {
       "id": "ato_299",
       "texto": "⚠️ PENÚLTIMO! Se você leu 299 alertas e ainda está pensando em continuar, aí o problema é outro."
+    },
+    
+    { "id": "alto_extra_01", 
+      "texto": "⚠️ ALTO RISCO! Cuidado!" 
     }
   ],
   "medio": [
@@ -3591,6 +3601,10 @@
     {
       "id": "med_299",
       "texto": "🟡 PENÚLTIMO ALERTA! Leia com atenção: nível médio não é alerta máximo, mas é o suficiente para você correr."
+    },
+    
+    { "id": "med_extra_01", 
+      "texto": "🟡 Risco moderado. Fique esperto!" 
     }
   ],
   "baixo": [
@@ -4789,6 +4803,10 @@
     {
       "id": "bai_299",
       "texto": "💚 PENÚLTIMO ALERTA! Depois de 299 verificações, esse(a) é praticamente um anjo. Mas até anjo tem seus dias ruins."
+    },
+    
+    { "id": "bai_extra_01", 
+      "texto": "💚 Baixo risco. Parece confiável!" 
     }
   ],
   "zero": [
@@ -5987,6 +6005,10 @@
     {
       "id": "zer_299",
       "texto": "🍀 PENÚLTIMO! Faltou pouco. Essa pessoa é um anjo, uma flor, um ser iluminado. Não deixe escapar por medo. Confie no que você encontrou."
+    },
+    
+    { "id": "zer_extra_01", 
+      "texto": "💖 Coração puro detectado!" 
     }
   ]
 }
